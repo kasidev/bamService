@@ -8,13 +8,12 @@ A singel dezentralized system for all kinds of Aviation messages and agreements
 -PNL
 -PAL
 -APIS
--IATA SSIM
--Handling Request
--Slot messages
+
 
 The system shall ensure that:
   -nobody can issue a message with a counterfeit sender's adress
   -nobody can alter the message during the transmission
+IOTA
   
 
 Smart contracts
@@ -22,5 +21,9 @@ Smart contracts
 -Groundhandling agreements
 -Fuel ordering
 -Slot allocations (Dynamic Aircraft, parking pay for stand)
+-IATA SSIM
+-Handling Request
+-Slot messages
 
-Proof of stake
+ETHEREUM
+
